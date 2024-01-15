@@ -61,6 +61,7 @@ ul li{
     list-style: none;
     padding: 0.30rem 0.5rem ;
     font-weight: bold;
+    border-bottom: 1px solid #ccc;
 }
 
 .efeitoLista{

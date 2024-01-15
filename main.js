@@ -1,29 +1,3 @@
-// $(document).ready(function(){
-//     $('form button').on('submit',(e)=>{
-//         e.preventDafault()
-//     const novaAtividade =  $('input').val();
-//     const novoItem = $('<li></li>');
-//     $('li').appendTo(novaAtividade)
-//     $(novoItem).appendTo('ul')
-//     })
-// })
-// $('form').on('submit' , (e)=>{
-//         e.preventDefault();
-//         const novaAtividade = $('#add_tarefa').val();
-        
-
-//         $(`
-//             <ul id="listaTarefas">
-//                 <li class="tarefas">${novaAtividade}</li>
-//             </ul>
-        
-//         `).appendTo('ul');
-
-        
-    
-//         $('#add_tarefa').val('');
-//     });
-
 
 
 
